@@ -1,0 +1,21 @@
+{
+	"author": "Chung Nguyen <chung.nguyen@gmail.com>",
+	"dependencies": {
+		"request": "^2.79.0"
+	},
+	"description": "Walking through tutorial",
+	"keywords": [
+		"Recime",
+		"Bot"
+	],
+	"license": "MIT",
+	"main": "main.js",
+	"name": "tutorial-bot",
+	"private": true,
+	"scripts": {
+		"build": "tsc",
+		"preinstall": "npm install -g typescript"
+	},
+	"title": "Tutorial Bot",
+	"version": "1.0.1"
+}
